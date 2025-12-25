@@ -10,7 +10,7 @@ This page provides an overview of overall retail performance. It includes key pe
 
 The revenue analysis page focuses specifically on financial performance. It helps identify high-revenue products, revenue growth trends, and variations over time. This page enables stakeholders to quickly recognize which products or segments contribute the most to revenue and where improvements or strategic changes may be required.
 
-Tools & Techniques Used:
+"Tools & Techniques Used"
 
 Power BI Desktop for dashboard creation
 
@@ -20,7 +20,7 @@ DAX measures for calculated metrics and KPIs
 
 Interactive visuals with filters and slicers
 
-Key Objectives of the Project
+"Key Objectives of the Project"
 
 To analyze ZARA’s retail sales data in a structured and visual format
 
