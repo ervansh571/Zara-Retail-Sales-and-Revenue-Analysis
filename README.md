@@ -12,20 +12,20 @@ The revenue analysis page focuses specifically on financial performance. It help
 
 "Tools & Techniques Used"
 
-Power BI Desktop for dashboard creation
+1. Power BI Desktop for dashboard creation
 
-Data cleaning and transformation using Power Query
+2. Data cleaning and transformation using Power Query
 
-DAX measures for calculated metrics and KPIs
+3. DAX measures for calculated metrics and KPIs
 
-Interactive visuals with filters and slicers
+4. Interactive visuals with filters and slicers
 
 "Key Objectives of the Project"
 
-To analyze ZARA’s retail sales data in a structured and visual format
+1. To analyze ZARA’s retail sales data in a structured and visual format
 
-To provide clear insights into revenue performance
+2. To provide clear insights into revenue performance
 
-To demonstrate practical skills in Power BI, data modeling, and business analytics
+3. To demonstrate practical skills in Power BI, data modeling, and business analytics
 
 This project is suitable for academic submission, portfolio showcasing, and beginner-to-intermediate Power BI learning. It reflects real-world retail analytics use cases and highlights the ability to convert raw data into meaningful business insights using visualization tools.
